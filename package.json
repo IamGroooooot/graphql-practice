@@ -1,0 +1,25 @@
+{
+  "name": "grapql-practice",
+  "version": "1.0.0",
+  "description": "주형이의 graphQL 연습장",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IamGroooooot/graphql-practice.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "Juhyeong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamGroooooot/graphql-practice/issues"
+  },
+  "homepage": "https://github.com/IamGroooooot/graphql-practice#readme",
+  "dependencies": {
+    "graphql": "^16.3.0"
+  }
+}
